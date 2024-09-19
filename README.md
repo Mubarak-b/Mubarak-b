@@ -103,5 +103,6 @@
 
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
+
