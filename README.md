@@ -12,8 +12,8 @@ I'm eager to apply my skills and contribute to innovative projects!
 
 ---
 
-## 🌐 Connect with Me:
-<h3 align="center">Connect with me:</h3>
+<h1 align = "center"> 🌐 Connect with Me: </h1>
+<!-- <h3 align="center">Connect with me:</h3> -->
 <p align="center">
     <a href="mailto:mubarakblr199@gmail.com" target="blank">
         <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="mubarakblr199@gmail.com" height="30" width="40" />
