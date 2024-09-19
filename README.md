@@ -13,9 +13,21 @@ I'm eager to apply my skills and contribute to innovative projects!
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/mubarak-b-75b36112b) 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:mubarakblr199@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/itsmubarak.b/)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+    <a href="mailto:mubarakblr199@gmail.com" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/484206/mail.svg" alt="mubarakblr199@gmail.com" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/itsmubarak_b" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmubarak_b" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/mubarak-b-75b36112b" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubarak_b_linkedin" height="30" width="40" />
+    </a>
+    <a href="https://www.instagram.com/itsmubarak.b/" target="_blank" rel="noopener noreferrer nofollow">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmubarak.b" height="30" width="40">
+    </a>
+</p>
 
 
 
