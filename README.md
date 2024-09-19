@@ -39,7 +39,7 @@ I'm eager to apply my skills and contribute to innovative projects!
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubarak-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="Mubarak's GitHub stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubarak-b&theme=dark&hide_border=false" height="150" alt="Mubarak's GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarak-bb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubarak-b&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="Top Languages"/>
 </div>
 
 ---
