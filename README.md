@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubarak</h1>
 <h3 align="center">A passionate Information Science and Engineering student from India</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mubarak-b&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-b" />
-</p>
 
 - 🌱 I’m currently learning **Full Stack Web Development, Cloud Computing, DevOps, Machine Learning, and Artificial Intelligence**
 
@@ -104,5 +101,9 @@
 <h3 align="center">✍️ Random Dev Quote</h3>
 <p align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mubarak-b&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-b" />
 </p>
 
