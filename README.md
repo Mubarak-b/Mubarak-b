@@ -95,11 +95,11 @@
 <h2 align="center" style="margin-bottom: 30px;">💻 Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs 💻</h2>
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://leetcode.com/mubarakblr199" target="_blank" style="margin: 0 15px;">
-    <img src="Images/leetcode.png" width=50 height=50 alt="LeetCode" />
+    <img src="leetcode.png" width=50 height=50 alt="LeetCode" />
   </a>
 
   <a href="https://www.geeksforgeeks.org/user/mubarakbsaf/" target="_blank" style="margin: 0 15px;">
-    <img src="Images/geeksforgeeks.png" width=50 height=50 alt="GeeksforGeeks" />
+    <img src="gfg.svg" width=50 height=50 alt="GeeksforGeeks" />
   </a>
 </div>
 
