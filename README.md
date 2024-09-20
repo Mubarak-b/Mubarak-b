@@ -6,24 +6,30 @@
 
 - 📫 How to reach me: **mubarakblr199@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://twitter.com/mubarak-b" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/itsmubarak.b/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://leetcode.com/mubarakblr199" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/mubarakbsaf/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-    </a>
-</p>
+<h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center" style="margin-bottom: 30px;">
+  <a href="mailto:mubarakblr199@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="Images/gmail.png" width=50 height=50 alt="mubarakblr199@gmail.com" />
+  </a>
+
+  <a href="https://twitter.com/mubarak-b" target="_blank" style="margin: 0 15px;">
+    <img src="Images/twitter.png" width=50 height=50 alt="Twitter" />
+  </a>
+
+  <a href="https://www.instagram.com/itsmubarak.b/" target="_blank" style="margin: 0 15px;">
+    <img src="Images/instagram.png" width=50 height=50 alt="Instagram" />
+  </a>
+
+  <a href="https://www.github.com/mubarak-b" target="_blank" style="margin: 0 15px;">
+    <img src="Images/github.png" width=50 height=50 alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank" style="margin: 0 15px;">
+    <img src="Images/linkedin.png" width=50 height=50 alt="LinkedIn" />
+  </a>
+</div>
+
+<br/><br/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
