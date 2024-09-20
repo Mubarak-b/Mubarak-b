@@ -9,23 +9,23 @@
 <h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center" style="margin-bottom: 30px;">
   <a href="mailto:mubarakblr199@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="Images/gmail.png" width=50 height=50 alt="mubarakblr199@gmail.com" />
+    <img src="gmail.png" width=50 height=50 alt="mubarakblr199@gmail.com" />
   </a>
 
   <a href="https://twitter.com/mubarak-b" target="_blank" style="margin: 0 15px;">
-    <img src="Images/twitter.png" width=50 height=50 alt="Twitter" />
+    <img src="twitter.png" width=50 height=50 alt="Twitter" />
   </a>
 
   <a href="https://www.instagram.com/itsmubarak.b/" target="_blank" style="margin: 0 15px;">
-    <img src="Images/instagram.png" width=50 height=50 alt="Instagram" />
+    <img src="instagram.png" width=50 height=50 alt="Instagram" />
   </a>
 
   <a href="https://www.github.com/mubarak-b" target="_blank" style="margin: 0 15px;">
-    <img src="Images/github.png" width=50 height=50 alt="GitHub" />
+    <img src="github.png" width=50 height=50 alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank" style="margin: 0 15px;">
-    <img src="Images/linkedin.png" width=50 height=50 alt="LinkedIn" />
+    <img src="linkedin.png" width=50 height=50 alt="LinkedIn" />
   </a>
 </div>
 
