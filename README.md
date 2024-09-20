@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
     </a>
 </p>
-
+<br/><br/>
 <!-- Programming Languages -->
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
@@ -60,7 +60,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
     </a>
 </p>
-
+<br/><br/>
 <!-- Cloud and DevOps -->
 <h3 align="center">☁️ Cloud and DevOps</h3>
 <p align="center">
@@ -77,7 +77,7 @@
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50"/>
     </a>
 </p>
-
+<br/><br/>
 <!-- Machine Learning and Tools -->
 <h3 align="center">🤖 Machine Learning and Tools</h3>
 <p align="center">
@@ -94,7 +94,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>
     </a>
 </p>
-
+<br/><br/>
 <!-- Database and Backend -->
 <h3 align="center">🛠️ Database and Backend</h3>
 <p align="center">
@@ -108,7 +108,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
     </a>
 </p>
-
+<br/><br/>
 <h2 align="center" style="margin-bottom: 30px;">💻 Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs 💻</h2>
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://leetcode.com/mubarakblr199" target="_blank" style="margin: 0 15px;">
