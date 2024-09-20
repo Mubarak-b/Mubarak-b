@@ -21,11 +21,11 @@
   </a>
 
   <a href="https://www.github.com/mubarak-b" target="_blank" style="margin: 0 15px;">
-    <img src="github.png" width=50 height=50 alt="GitHub" />
+    <img src="github (1).png" width=50 height=50 alt="GitHub" />
   </a>
 
   <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank" style="margin: 0 15px;">
-    <img src="linkedin.png" width=50 height=50 alt="LinkedIn" />
+    <img src="linkedin (1).png" width=50 height=50 alt="LinkedIn" />
   </a>
 </div>
 
