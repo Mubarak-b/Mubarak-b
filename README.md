@@ -92,6 +92,20 @@
     </a>
 </p>
 
+<h2 align="center" style="margin-bottom: 30px;">💻 Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs 💻</h2>
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://leetcode.com/mubarakblr199" target="_blank" style="margin: 0 15px;">
+    <img src="Images/leetcode.png" width=50 height=50 alt="LeetCode" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/mubarakbsaf/" target="_blank" style="margin: 0 15px;">
+    <img src="Images/geeksforgeeks.png" width=50 height=50 alt="GeeksforGeeks" />
+  </a>
+</div>
+
+<br/><br/>
+
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubarak-b&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
