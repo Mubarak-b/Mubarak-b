@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development, Cloud Computing, DevOps, Machine Learning, and Artificial Intelligence**
 
 - 📫 How to reach me: **mubarakblr199@gmail.com**
+
 <h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center" style="margin-bottom: 30px;">
   <a href="mailto:mubarakblr199@gmail.com" target="_blank">
