@@ -32,6 +32,8 @@
 
 <!-- Web Development -->
 <h3 align="center">🌐 Web Development</h3>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: auto;"> -->
+<hr>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
@@ -49,6 +51,8 @@
 <br/><br/>
 <!-- Programming Languages -->
 <h3 align="center">💻 Programming Languages</h3>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: auto;"> -->
+<hr>
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -63,6 +67,8 @@
 <br/><br/>
 <!-- Cloud and DevOps -->
 <h3 align="center">☁️ Cloud and DevOps</h3>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: auto;"> -->
+<hr>
 <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
@@ -80,6 +86,8 @@
 <br/><br/>
 <!-- Machine Learning and Tools -->
 <h3 align="center">🤖 Machine Learning and Tools</h3>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: auto;"> -->
+<hr>
 <p align="center">
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
@@ -97,6 +105,8 @@
 <br/><br/>
 <!-- Database and Backend -->
 <h3 align="center">🛠️ Database and Backend</h3>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%; margin: auto;"> -->
+<hr>
 <p align="center">
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
@@ -110,6 +120,7 @@
 </p>
 <br/><br/>
 <h2 align="center" style="margin-bottom: 30px;">💻 Cᴏᴅɪɴɢ Pʀᴏғɪʟᴇs 💻</h2>
+<!-- <hr style="border: none; border-top: 1px solid #ccc; width: 80%;"> -->
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://leetcode.com/mubarakblr199" target="_blank" style="margin: 0 15px;">
     <img src="leetcode.png" width=50 height=50 alt="LeetCode" />
