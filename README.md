@@ -4,31 +4,31 @@
 - 🌱 I’m currently learning **Full Stack Web Development, Cloud Computing, DevOps, Machine Learning, and Artificial Intelligence**
 
 - 📫 How to reach me: **mubarakblr199@gmail.com**
-
 <h2 align="center" style="margin-bottom: 30px;">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center" style="margin-bottom: 30px;">
-  <a href="mailto:mubarakblr199@gmail.com" target="_blank" style="margin: 0 35px;">
-    <img src="gmail.png" width=50 height=50 alt="mubarakblr199@gmail.com" />
+  <a href="mailto:mubarakblr199@gmail.com" target="_blank">
+    <img src="gmail.png" width=50 height=50 alt="mubarakblr199@gmail.com" style="margin-right: 35px;" />
   </a>
 
-  <a href="https://twitter.com/mubarak-b" target="_blank" style="margin: 0 35px;">
-    <img src="twitter.png" width=50 height=50 alt="Twitter" />
+  <a href="https://twitter.com/mubarak-b" target="_blank">
+    <img src="twitter.png" width=50 height=50 alt="Twitter" style="margin-right: 35px;" />
   </a>
 
-  <a href="https://www.instagram.com/itsmubarak.b/" target="_blank" style="margin: 0 35px;">
-    <img src="instagram.png" width=50 height=50 alt="Instagram" />
+  <a href="https://www.instagram.com/itsmubarak.b/" target="_blank">
+    <img src="instagram.png" width=50 height=50 alt="Instagram" style="margin-right: 35px;" />
   </a>
 
-  <a href="https://www.github.com/mubarak-b" target="_blank" style="margin: 0 35px;">
-    <img src="github (1).png" width=50 height=50 alt="GitHub" />
+  <a href="https://www.github.com/mubarak-b" target="_blank">
+    <img src="github (1).png" width=50 height=50 alt="GitHub" style="margin-right: 35px;" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank" style="margin: 0 35px;">
+  <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank">
     <img src="linkedin (1).png" width=50 height=50 alt="LinkedIn" />
   </a>
 </div>
 
 <br/><br/>
+
 
 <!-- Web Development -->
 <h3 align="center">🌐 Web Development</h3>
