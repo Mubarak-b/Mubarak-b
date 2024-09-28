@@ -19,10 +19,6 @@
     <img src="instagram.png" width=50 height=50 alt="Instagram" style="margin-right: 35px;" />
   </a>
 
-  <a href="https://www.github.com/mubarak-b" target="_blank">
-    <img src="github (1).png" width=50 height=50 alt="GitHub" style="margin-right: 35px;" />
-  </a>
-
   <a href="https://www.linkedin.com/in/mubarak-b-75b36112b/" target="_blank">
     <img src="linkedin (1).png" width=50 height=50 alt="LinkedIn" />
   </a>
